@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/StartScene.unity
+    guid: 114cb56ccb4321d458147ec08816b45c
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/TitleMenu.unity
+    guid: f1be1f91d3c7db64d82ba3f9126e5f41
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/CharacterSelect.unity
+    guid: f2d8405887bbaba47899463b5bc225d6
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/LevelSelect.unity
+    guid: 6e42d093fcd797f4d9d84e547a16cf4d
+  - enabled: 1
+    path: Assets/Scenes/MetropolWorld/MetropolWorld1.unity
+    guid: 0f5bda63706127546b3a34a1ee3ed466
+  - enabled: 1
+    path: Assets/Scenes/MetropolWorld/MetropolWorld2.unity
+    guid: 5ccfdf13574265d4ab7404cc2056cb00
+  - enabled: 1
+    path: Assets/Scenes/SkyCarrierWorld/SkyCarrierWorld1.unity
+    guid: 5488d88776cf0e24eb5611f854b321ad
+  - enabled: 1
+    path: Assets/Scenes/SkyCarrierWorld/SkyCarrierWorld2.unity
+    guid: de8129ff064faff44a40aefad2e65014
+  - enabled: 1
+    path: Assets/Scenes/IceWorld/IceWorld1.unity
+    guid: 47ea56ad601d5814fa7e72af5f4059af
+  - enabled: 1
+    path: Assets/Scenes/IceWorld/IceWorld2.unity
+    guid: 5b4fd2692caa17b4697159a58f317ada
+  - enabled: 1
+    path: Assets/Scenes/CityWorld/CityWorld1.unity
+    guid: 599a81ba8ae07ab48b499e48c9120178
+  - enabled: 1
+    path: Assets/Scenes/CityWorld/CityWorld2.unity
+    guid: a143710d47d4cab40a2d7bef641bc142
+  - enabled: 1
+    path: Assets/Scenes/MedleyWorld/MedleyWorld.unity
+    guid: 4735f17ff3779be418722e7223f97b49
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/ThankYouScreen.unity
+    guid: 1bb1db11c9f3c284597a7d4501d1d2e1
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/GotMacbat.unity
+    guid: e371e3731dc543941b875f882640c1a3
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/GotTasty.unity
+    guid: 67c2d7a1722021b40931f7962d70a2ab
+  - enabled: 1
+    path: Assets/Scenes/TitleMenu/Credits.unity
+    guid: 591a466642aa9fe468d99e67020f9c51
+  m_configObjects: {}
